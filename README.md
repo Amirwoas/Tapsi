@@ -4,7 +4,7 @@ Welcome to the Tapsi Online Taxi website repository! 🌟 This project features 
 
 ## 🎉 Demo
 
-Explore the elegance of the Tapsi Online Taxi website by checking out our live demo [here](#insert-link-to-demo-if-available).
+Explore the elegance of the Tapsi Online Taxi website by checking out our live demo [here]([#insert-link-to-demo-if-available](https://amirwoas.github.io/Tapsi/)).
 
 ## ✨ Features
 
@@ -21,13 +21,13 @@ Embark on your journey with the Tapsi Online Taxi website by following these sim
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/tapsi-website.git
+    git clone https://github.com/Amirwoas/Tapsi
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd tapsi-website
+    cd Tapsi
     ```
 
 3. Open the `index.html` file in your preferred web browser or deploy it on a web server.
